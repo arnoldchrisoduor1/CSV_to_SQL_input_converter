@@ -1,0 +1,1 @@
+This program converts a normal csv fie into value that can be easily inserted into a database using the INSERT INTO query.
